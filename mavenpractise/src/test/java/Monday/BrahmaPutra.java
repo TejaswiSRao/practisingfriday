@@ -1,6 +1,6 @@
 package Monday;
 
-public class Bhoomi {
+public class BrahmaPutra {
 public void demo()
 {
 	System.out.println("Hai");
